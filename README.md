@@ -29,7 +29,7 @@ passport.use(new CleverStrategy({
 }, function(req, accessToken, refreshToken, profile, done) {
     User.findOrCreate({ cleverId: profile.data.id }, function(err, user) {
         return done(err, user);
-}));
+}}));
 ```
 
 #### Authenticate Requests
