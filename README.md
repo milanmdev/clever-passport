@@ -49,4 +49,4 @@ app.get("/callback", passport.authenticate("clever", { failureRedirect: "/login"
 
 ## Disclaimer
 
-This repository is NOT developed, or endorsed by Clever. This library is here to help users easily integrate Clever's Instant Login API to their Node.js projects. All questions about the API should be taken to [Clever Support](https://support.clever.com/hc/s/?language=en_US) and all questions about this library should be taken to [Milan Mehra](mailto:milanmdev@gmail.com).
+This repository is NOT developed or endorsed by Clever. This library is here to help users easily integrate Clever's Instant Login API to their Node.js projects. All questions about the API should be taken to [Clever Support](https://support.clever.com/hc/s/?language=en_US) and all questions about this library should be taken to [Milan Mehra](mailto:milanmdev@gmail.com).
