@@ -1,3 +1,8 @@
+# This package is no longer maintained. 
+
+### The packaged live on NPM is NOT maintained by me and the code for it could change at any time (if the owner of it decided to change something in the code)
+
+---
 
 # clever-passport
 
